@@ -1,0 +1,9 @@
+[package]
+name = "arch-shader-antithesis-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-shader-antithesis-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-shader-antithesis-kernel"
+
+[dependencies]
